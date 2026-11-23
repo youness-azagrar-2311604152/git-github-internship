@@ -40,3 +40,19 @@ After completing this introductory activity, I understood the basic concepts of 
 ## 7. Practical Status
 
 Status: Introduction completed.
+
+
+## 8. Basic Git Commands
+
+Some important Git commands are:
+
+- git init: Initialize a Git repository.
+- git status: Check the status of files.
+- git add .: Stage all changes.
+- git commit: Save changes.
+- git push: Upload changes to GitHub.
+- git pull: Download the latest changes.
+
+## 9. Conclusion
+
+Git and GitHub are essential tools for modern software development. They help developers manage projects, track changes, and collaborate effectively.
