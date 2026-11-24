@@ -1,1 +1,2 @@
-This is version 1 from Branch 1
+This is the final merged version.
+Changes from Branch 1 and Branch 2 have been reviewed.
